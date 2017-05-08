@@ -224,7 +224,7 @@ git config --global user.email "youeamil@email.com"
   
 ## 4.MarkDown的编辑工具有哪些？
 
-GitHub，MarkDownPad，MarkPad，
-5.MarkDown的区块元素和区段元素包含哪些？
-区块：标题和段落，区块引用，列表，代码区块，分隔线
-区段：链接，强调，代码，图片
+  GitHub，MarkDownPad，MarkPad，
+## 5.MarkDown的区块元素和区段元素包含哪些？
+  区块：标题和段落，区块引用，列表，代码区块，分隔线
+  区段：链接，强调，代码，图片
